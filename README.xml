@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<readme>
+    <!-- *********************************************************************************************************** -->
+
+    <!-- CSE 331 HONROS PROJECT README (Spring 2021) -->
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- (1) Please enter your MSU netid (the part of your email before @msu.edu) below. -->
+    <netid>
+        knuthmac
+    </netid>
+
+    <!-- (2) Please enter your feedback below. How did you like the Project/CC? -->
+    <!-- What was easy? What was challenging? How could we improve it in the future? -->
+    <feedback>
+        This project was super fun to build. I watched an MIT lecture to get a general understand of Skip lists and read some papers 
+        to solidfy the content. I also thought the application problem was fun. I've never been to New York, but I hear the NYC subway 
+        system is somewhat challenging to navigate. Coming up with an ideal path to get from point A to point B was super fun and dare 
+        I say practical. I enjoyed working on this project as my curiousity grew as I learned more. Thank you for the super fun semester
+        filled with valuable information both practical and interesting. 
+    </feedback>
+
+    <!-- (3) Please enter approximately how long the Project/CC took you in hours (as a floating point).  -->
+    <!-- For example, if it took you 45 minutes, enter 0.75; if it took you 2 and a half hours, enter 2.5. -->
+    <time>
+        20 (including research, understanding, conceptualizing, debugging, building test cases, etc.)
+    </time>
+
+    <!-- (4) Please cite the resources you used to complete the Project/CC. URLs are fine!  -->
+    <citations>
+        I used the following resources to help me create my Skip List Project 
+        https://www.youtube.com/watch?v=ypod5jeYzAU 
+        https://www.youtube.com/watch?v=UGaOXaXAM5M 
+        https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/lecture-12-skip-lists/ 
+        https://pythonexamples.org/python-random-flip-coin/ 
+        ftp://ftp.cs.umd.edu/pub/skipLists/skiplists.pdf 
+        https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf 
+        https://gist.github.com/sachinnair90/3bee2ef7dd3ff0dc5aec44ec40e2d127
+        https://www.ics.uci.edu/~pattis/ICS-23/lectures/notes/Skip%20Lists.pdf 
+        https://skiplist.readthedocs.io/en/latest/api.html#class-cskiplist-pyskiplist 
+        https://skiplist.readthedocs.io/en/latest/api.html#constructors 
+        https://people.csail.mit.edu/shanir/publications/LazySkipList.pdf 
+        https://codereview.stackexchange.com/questions/118340/skip-list-in-python
+        as well as test cases from previous projects and Node implementation, DLL and SLL inspiration
+
+    </citations>
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- Configured by Project/CC author. DO NOT EDIT! -->
+    <type>Project</type>    <!-- Enter "Project" or "CC" without quotes -->
+    <number>Honors</number>      <!-- Enter Project/CC number as integer -->
+
+    <!-- *********************************************************************************************************** -->
+
+</readme>
